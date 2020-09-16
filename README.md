@@ -1,8 +1,4 @@
-# 
-  
-![+](https://live.staticflickr.com/65535/49935122957_15d96715cd_4k.jpg)
-
-## 📚🦑📚
+![+](https://live.staticflickr.com/65535/49935122957_cc0fe44ef0_n.jpg)
 
 <!--
 **zzkt/zzkt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
