@@ -1,6 +1,6 @@
 
 <p align="justify">
-<img src="68747470733a2f2f6c6976652e737461746963666c69636b722e636f6d2f36353533352f34393933353132323935375f636330666534346566305f6e2e6a7067.jpg" width="36%" align="right" class="avatar avatar-user width-full border bg-white"/>
+<img src="68747470733a2f2f6c6976652e737461746963666c69636b722e636f6d2f36353533352f34393933353132323935375f636330666534346566305f6e2e6a7067.png" width="36%" align="right" class="avatar avatar-user width-full border bg-white"/>
 <br />  . .,, ;:
 <br />    
 <br /><b style="color:grey;font-size:646px;"><</p>    
